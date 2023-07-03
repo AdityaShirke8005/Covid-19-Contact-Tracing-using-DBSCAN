@@ -44,7 +44,7 @@ A Contact Tracing App implemented in Python using Streamlit to help track potent
 
 Here's a GIF demonstrating the working of the Contact Tracing App:
 
-![App Demo](demo.gif)
+![App Demo](Contact_tracing.gif)
 
 ## Contributors
 
