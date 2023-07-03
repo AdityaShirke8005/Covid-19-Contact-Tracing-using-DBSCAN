@@ -23,7 +23,7 @@ A Contact Tracing App implemented in Python using Streamlit to help track potent
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/contact-tracing-app.git
+   git clone https://github.com/AdityaShirke8005/Covid-19-Contact-Tracing-using-DBSCAN
 
 2. Install the required dependencies:
 
