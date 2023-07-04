@@ -27,18 +27,21 @@ A Contact Tracing App implemented in Python using Streamlit to help track potent
 
 2. Install the required dependencies:
 
+   ```shell
    pip install -r requirements.txt
 
 3. Prepare the contact tracing data:
 
+   ```shell
    Create a JSON file named contacttracing_data.json with the required data structure.
    Make sure to include columns for id, latitude, and longitude.
 
 4. Run the app:
 
+   ```shell
    streamlit run app.py
    
-5. Enter your name in the app to check for potential exposure.
+6. Enter your name in the app to check for potential exposure.
 
 ## Future Scope
 
